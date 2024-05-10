@@ -1,0 +1,46 @@
+.elementor-kit-6{--e-global-color-primary:#24262E;--e-global-color-secondary:#FF9100;--e-global-color-text:#787E8E;--e-global-color-accent:#158A86;--e-global-color-8d96feb:#E6E8EC;--e-global-color-487485a:#FFF3E5;--e-global-color-52d86bb:#4C5354;--e-global-color-6d07f92:#FFFFFF;--e-global-color-f632904:#A3BFBE;--e-global-color-206a691:#19615E;--e-global-typography-primary-font-family:"Raleway";--e-global-typography-primary-font-weight:500;--e-global-typography-primary-text-transform:none;--e-global-typography-secondary-font-family:"Raleway";--e-global-typography-secondary-font-size:36px;--e-global-typography-secondary-font-weight:300;--e-global-typography-secondary-text-transform:capitalize;--e-global-typography-secondary-line-height:46.8px;--e-global-typography-text-font-family:"Raleway";--e-global-typography-text-font-size:22px;--e-global-typography-text-font-weight:500;--e-global-typography-text-text-transform:capitalize;--e-global-typography-text-line-height:32px;--e-global-typography-accent-font-family:"Raleway";--e-global-typography-accent-font-size:16px;--e-global-typography-accent-font-weight:700;--e-global-typography-accent-line-height:26px;--e-global-typography-3a774a3-font-family:"Cabin";--e-global-typography-3a774a3-font-size:16px;--e-global-typography-3a774a3-font-weight:400;--e-global-typography-3a774a3-text-transform:none;--e-global-typography-3a774a3-line-height:26px;--e-global-typography-ccc718b-font-family:"Raleway";--e-global-typography-ccc718b-font-size:22px;--e-global-typography-ccc718b-font-weight:300;--e-global-typography-ccc718b-line-height:26px;--e-global-typography-0de81a7-font-family:"Raleway";--e-global-typography-0de81a7-font-size:54px;--e-global-typography-0de81a7-font-weight:700;--e-global-typography-0de81a7-text-transform:capitalize;--e-global-typography-0de81a7-line-height:60px;--e-global-typography-11b9ba0-font-family:"Cabin";--e-global-typography-11b9ba0-font-size:16px;--e-global-typography-11b9ba0-font-weight:700;--e-global-typography-9235004-font-family:"Cabin";--e-global-typography-9235004-font-size:11px;--e-global-typography-9235004-font-weight:400;--e-global-typography-9235004-text-transform:none;--e-global-typography-9235004-line-height:14px;text-transform:none;}.elementor-kit-6 h1{color:var( --e-global-color-primary );}.elementor-kit-6 button,.elementor-kit-6 input[type="button"],.elementor-kit-6 input[type="submit"],.elementor-kit-6 .elementor-button{font-family:"Raleway", Sans-serif;font-size:16px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1272px;}.e-con{--container-max-width:1272px;}.elementor-widget:not(:last-child){margin-block-end:15px;}.elementor-element{--widgets-spacing:15px 15px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1025px){.elementor-kit-6{--e-global-typography-secondary-font-size:26px;--e-global-typography-text-font-size:18px;--e-global-typography-text-line-height:28px;--e-global-typography-accent-font-size:14px;--e-global-typography-accent-line-height:24px;--e-global-typography-3a774a3-font-size:14px;--e-global-typography-3a774a3-line-height:24px;--e-global-typography-0de81a7-font-size:44px;--e-global-typography-0de81a7-line-height:56px;--e-global-typography-9235004-font-size:11px;--e-global-typography-9235004-line-height:14px;}.elementor-kit-6 button,.elementor-kit-6 input[type="button"],.elementor-kit-6 input[type="submit"],.elementor-kit-6 .elementor-button{font-size:16px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-6{--e-global-typography-secondary-font-size:28px;--e-global-typography-secondary-line-height:34px;--e-global-typography-text-font-size:18px;--e-global-typography-text-line-height:28px;--e-global-typography-3a774a3-font-size:16px;--e-global-typography-0de81a7-font-size:34px;--e-global-typography-0de81a7-line-height:42px;--e-global-typography-9235004-font-size:11px;}.elementor-kit-6 button,.elementor-kit-6 input[type="button"],.elementor-kit-6 input[type="submit"],.elementor-kit-6 .elementor-button{font-size:16px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.center-box{
+    margin: 0 auto;
+}
+.min-width a.elementor-button {
+    min-width: 213px;
+}
+.animated {
+    animation-duration: 0s !important;
+}
+@media (min-width:1700px){
+.inner-hero-sec {
+    display: flex;
+    align-items: center;
+    padding: 450px 15px 60px 15px !important;
+}
+}
+
+@media (max-width:1400px){
+    .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1140px !important;
+}
+}
+
+.inner-hero-sec-btn-col .elementor-widget-wrap.elementor-element-populated {
+    display: flex;
+}
+.inner-hero-sec-btn-col .elementor-widget-wrap.elementor-element-populated .inner-hero-sec-btn1, .inner-hero-sec-btn-col .elementor-widget-wrap.elementor-element-populated .inner-hero-sec-btn2 {
+    width: auto !important;
+    margin-top: 15px;
+}
+
+.inner-hero-sec-btn-col .elementor-widget-wrap.elementor-element-populated .inner-hero-sec-btn2 {
+    margin-left: 20px;
+}
+
+@media (max-width:767px){
+    .inner-hero-sec-btn-col .elementor-widget-wrap.elementor-element-populated .inner-hero-sec-btn1, .inner-hero-sec-btn-col .elementor-widget-wrap.elementor-element-populated .inner-hero-sec-btn2 {
+    width: 100% !important;
+}
+.inner-hero-sec-btn-col .elementor-widget-wrap.elementor-element-populated .inner-hero-sec-btn2 {
+    margin-left: 0;
+}
+.inner-hero-sec-btn-col a.elementor-button-link.elementor-button {
+    display: block !important;
+}
+}/* End custom CSS */
